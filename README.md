@@ -28,7 +28,7 @@ We work in four main areas:
 
 · Business Intelligence, working with the top platforms Qlik® and Power BI.
 
-- Business infrastructure, optimizing the existing infrastructure, to cybersecurity and to the recovery of data and critical applications .
+· Business infrastructure, optimizing the existing infrastructure, to cybersecurity and to the recovery of data and critical applications .
 
 · Web ecosystem, we make your corporate site or your e-commerce stand out and we help you implementing a comprehensive digital strategy.
 
